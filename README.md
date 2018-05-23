@@ -17,3 +17,5 @@ the manifested CSS classes/selectors, if they are to be expose
 
 ## Resources
 A Great Resource to learn more about Sass: [Sass Guidelines](https://sass-guidelin.es/#naming-conventions).
+A Great Resource to learn some Tips and Tricks for Sass: [Sass Tips](https://scotch.io/tutorials/aesthetic-sass-1-architecture-and-style-organization).
+A Great Resource to learn more about how to set up Sass files: [Sass Files Structure](https://www.sitepoint.com/architecture-sass-project/).
