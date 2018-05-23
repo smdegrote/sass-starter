@@ -14,3 +14,6 @@ any component-specific CSS with regard to relationships (via combinators) with o
 thematic CSS for non-layout component styling, such as background, colors, shadows, etc.
 ### Exported Selectors
 the manifested CSS classes/selectors, if they are to be expose
+
+## Resources
+A Great Resource to learn more about Sass: [Sass Guidelines](https://sass-guidelin.es/#naming-conventions).
